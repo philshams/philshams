@@ -16,9 +16,9 @@
  <br/> <br/>
 
 <p float="left">
-<img src="https://github.com/philshams/philshams/blob/main/movement_analysis.JPG" width="260"/>
-<img src="https://github.com/philshams/philshams/blob/main/test_500.gif" width="300"/>
-<img src="https://github.com/philshams/philshams/blob/main/slice_image.JPG" width="280"/>
+<img src="https://github.com/philshams/philshams/blob/main/movement_analysis.JPG" width="250"/>
+<img src="https://github.com/philshams/philshams/blob/main/test_500.gif" width="285"/>
+<img src="https://github.com/philshams/philshams/blob/main/slice_image.JPG" width="267"/>
 </p>
 
  📫 Feel free to reach out with any questions! philip.shamash.17@ucl.ac.uk
