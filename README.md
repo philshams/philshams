@@ -16,8 +16,10 @@
  <br/> <br/>
 
 <p float="left">
-<img src="https://github.com/philshams/philshams/blob/main/movement_analysis.JPG" width="250"/>
-<img src="https://github.com/philshams/philshams/blob/main/test_500.gif" width="285"/>
+<img src="https://github.com/philshams/philshams/blob/main/movement_analysis.JPG" width="250"/> 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/philshams/philshams/blob/main/test_500.gif" width="267"/>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/philshams/philshams/blob/main/slice_image.JPG" width="267"/>
 </p>
 
