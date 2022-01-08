@@ -1,5 +1,5 @@
 ### Hi there 👋
 - 🐁 Analyzing videos of animal behaviour? **behavior-opto-analysis** has some neat functions for visualization and video registration
-- 🧠 Dealing with brain-slice histology? Check out some tools I helped work on: _cortexlab/allenCCF_ and the _brainglobe_ initiative.
+- 🧠 Processing brain sections? Check out some image analysis tools I helped work on: _cortexlab/allenCCF_ and _brainglobe/slicereg_.
 - ⚡ Need to focus? Try `pip install focus-time`    ->   `focus`
-- 📫 How to reach me: philip.shamash.17@ucl.ac.uk
+- 📫 philip.shamash.17@ucl.ac.uk
