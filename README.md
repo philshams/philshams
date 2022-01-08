@@ -5,7 +5,7 @@
  🔬 *Processing brain sections?* <br/>
  Check out some image analysis tools I've worked on: [SHARP-Track](https://github.com/cortex-lab/allenCCF) and [slicereg](https://github.com/brainglobe/slicereg).
  <br/> <br/>
- 📐 *Want a reinforcement learning gridworld based on Euclidean distances rather than grid distance?* <br/>
+ 📐 *Looking for a gridworld environment in which reinforcement-learning agents minimize Euclidean distances rather than grid distance?* <br/>
  Check out [Euclidean_Gridworld_RL](https://github.com/philshams/Euclidean_Gridworld_RL).
  <br/> <br/>
  🧠 *New to programming or neuroscience?* <br/>
